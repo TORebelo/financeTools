@@ -1,0 +1,3 @@
+"""
+Financial statements application package.
+"""
